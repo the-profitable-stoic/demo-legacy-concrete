@@ -1,0 +1,636 @@
+{
+  "business": {
+    "name": "Legacy Concrete",
+    "phone": "555-con-rq19",
+    "category": "concrete",
+    "city": "Denver",
+    "state": "CO"
+  },
+  "design": {
+    "preset": {
+      "id": "concrete-heritage-craft",
+      "categoryGroup": "concrete",
+      "name": "Heritage Craft",
+      "recipeFile": "concrete/heritage-craft.astro",
+      "colors": {
+        "primary": "#6B5E50",
+        "primaryDark": "#403830",
+        "primaryLight": "#cbc7c2",
+        "secondary": "#5b5044",
+        "accent": "#6B5E50",
+        "background": "#F5F2ED",
+        "backgroundAlt": "#5b5044",
+        "surface": "#EDEAE4",
+        "text": "#1A1510",
+        "textLight": "#4A4540",
+        "textOnDark": "#F5F2ED",
+        "border": "#D5CEBC"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "600",
+        "bodyFont": "Libre Franklin",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "4px",
+        "buttonRadius": "4px",
+        "cardRadius": "6px",
+        "shadowStyle": "subtle"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "generous"
+      }
+    },
+    "recipeId": "concrete/heritage-craft"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Denver's Concrete Experts",
+      "heroSubline": "Built to last through Colorado's toughest weather. Serving Denver metro homes and businesses since 2012.",
+      "aboutTitle": "Legacy Built on Solid Ground",
+      "aboutText": [
+        "Founded in 2012, Legacy Concrete started with one truck and a commitment to quality workmanship. Today, we're Denver's trusted name for durable concrete solutions that withstand Colorado's extreme climate.",
+        "We approach every project with precision and pride, from historic Capitol Hill repairs to modern Highlands Ranch installations. Our crews know local building codes and weather challenges inside out.",
+        "When we pour concrete in Denver, we're building more than slabs - we're strengthening our community's foundations for decades to come."
+      ],
+      "valueProps": [
+        {
+          "title": "Weather-Proven",
+          "description": "Our mixes are formulated for Denver's freeze-thaw cycles and hail impacts."
+        },
+        {
+          "title": "Local Knowledge",
+          "description": "We understand Denver's historic districts and modern construction requirements."
+        },
+        {
+          "title": "No Shortcuts",
+          "description": "Proper site prep and curing techniques ensure long-term durability."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "Upfront quotes with no surprise charges - Denver deserves honest contractors."
+        }
+      ],
+      "ctaHeadline": "Ready for Concrete That Lasts?",
+      "ctaSubline": "Call 555-con-rq19 for a free Denver-area estimate today."
+    },
+    "services": [
+      {
+        "slug": "driveway-installation",
+        "name": "Driveway Installation",
+        "shortDescription": "Heavy-duty driveways built for Denver's climate challenges.",
+        "description": "Colorado's freeze-thaw cycles destroy inferior concrete within years. Our driveway installations use 4000 PSI mix with fiber reinforcement and proper expansion joints to prevent cracking.\n\nWe excavate 12 inches below grade in Denver's clay soils, then install proper gravel base and vapor barriers. Every pour includes control joints spaced for our climate. Finish options include brushed, exposed aggregate, or stamped patterns that complement your home's architecture.\n\nFrom historic Park Hill bungalows to modern Highlands Ranch estates, we've installed driveways that stand the test of time.",
+        "process": [
+          "Step 1: Site evaluation including soil testing and drainage assessment",
+          "Step 2: Excavation and compacted gravel base installation",
+          "Step 3: Form building with proper expansion joint planning",
+          "Step 4: Pouring and finishing with climate-appropriate techniques"
+        ],
+        "benefits": [
+          "Thicker slabs resist cracking from freeze-thaw cycles",
+          "Proper base prevents settling in Denver's expansive soils",
+          "Reinforced edges withstand snowplow impacts",
+          "Custom finishes to match your home's style"
+        ],
+        "faq": [
+          {
+            "question": "How thick should a Denver driveway be?",
+            "answer": "We pour minimum 5-inch slabs with thickened edges - thinner concrete fails quickly here. Historic districts may require special approvals we handle."
+          },
+          {
+            "question": "When's the best time to install?",
+            "answer": "Spring through early fall allows proper curing. We monitor weather closely - no pours if temps drop below 40°F."
+          },
+          {
+            "question": "Do you repair existing driveways?",
+            "answer": "Yes, but Denver's climate often makes full replacement more cost-effective long-term. We'll give you straight advice."
+          }
+        ]
+      },
+      {
+        "slug": "foundation-repair",
+        "name": "Foundation Repair",
+        "shortDescription": "Solutions for Denver's shifting soils and freeze damage.",
+        "description": "Denver's clay soils expand and contract dramatically with moisture changes, while freeze-thaw cycles accelerate foundation problems. We specialize in diagnosing and repairing these Colorado-specific issues.\n\nOur team assesses cracks, uneven floors, and sticking doors to determine the root cause. Solutions range from epoxy injections for minor cracks to helical piers for serious settling. We coordinate with structural engineers when needed, especially in historic neighborhoods like LoDo.\n\nFor older homes, we match original concrete composition and finishing techniques. Modern builds get updated reinforcement methods. Every repair includes drainage improvements to prevent recurrence.",
+        "process": [
+          "Step 1: Comprehensive inspection including moisture testing",
+          "Step 2: Laser level measurements to identify settlement patterns",
+          "Step 3: Custom repair plan with material options",
+          "Step 4: Precision execution with minimal disruption"
+        ],
+        "benefits": [
+          "Localized repairs preserve structural integrity",
+          "Solutions tailored to Denver's soil conditions",
+          "Prevent further damage to your home",
+          "Increased property value with proper documentation"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my foundation needs repair?",
+            "answer": "Horizontal cracks wider than 1/4 inch, doors that won't close, or visible gaps between walls and floors all indicate problems. We offer free evaluations."
+          },
+          {
+            "question": "Will repairs prevent future issues?",
+            "answer": "Our solutions address both symptoms and causes, including proper grading and drainage - critical in Denver's climate."
+          },
+          {
+            "question": "How long does foundation repair take?",
+            "answer": "Most projects complete in 2-5 days. Historic homes may require longer for careful matching of materials."
+          }
+        ]
+      },
+      {
+        "slug": "patio-installation",
+        "name": "Patio Installation",
+        "shortDescription": "Outdoor living spaces designed for Denver's seasons.",
+        "description": "From RiNo backyard retreats to Wash Park garden patios, we build outdoor spaces that handle Colorado's extremes. Our designs consider sun exposure, snow load, and hail resistance.\n\nWe offer poured concrete patios with options from simple brushed finishes to decorative stamping that mimics natural stone. For sloping yards common in Lakewood and Arvada, we incorporate retaining walls and proper drainage.\n\nEvery installation includes sub-surface preparation critical in our climate - compacted base material, proper slope for runoff, and control joints placed to prevent unsightly cracking. Optional radiant heat systems extend usability into cooler months.",
+        "process": [
+          "Step 1: Consultation to discuss usage and design preferences",
+          "Step 2: Site preparation including grading analysis",
+          "Step 3: Form building with precise elevation planning",
+          "Step 4: Pouring and finishing with selected textures"
+        ],
+        "benefits": [
+          "Durable surfaces that withstand hail and freeze cycles",
+          "Custom shapes to fit your outdoor space perfectly",
+          "Low-maintenance compared to wood or pavers",
+          "Increased home value with professional installation"
+        ],
+        "faq": [
+          {
+            "question": "What's better for Denver - concrete or pavers?",
+            "answer": "Poured concrete requires less maintenance and handles freeze-thaw better when properly installed. We can discuss both options."
+          },
+          {
+            "question": "Can you match my existing concrete?",
+            "answer": "We'll take samples to match color and texture for seamless additions to older patios."
+          },
+          {
+            "question": "How soon can I use my new patio?",
+            "answer": "Wait 7 days for foot traffic, 28 days for heavy furniture. We'll provide exact timelines based on weather."
+          }
+        ]
+      },
+      {
+        "slug": "sidewalk-replacement",
+        "name": "Sidewalk Replacement",
+        "shortDescription": "ADA-compliant walkways that endure Colorado winters.",
+        "description": "Denver's sidewalk repair ordinances demand durable solutions. We replace damaged walkways with mixes designed to resist salt damage and freeze-thaw stress.\n\nOur crews work efficiently to minimize neighborhood disruption, carefully removing old concrete without damaging surrounding landscaping. New pours meet strict ADA slope requirements while blending with your home's aesthetic.\n\nWe coordinate with city inspectors in historic districts like Capitol Hill, ensuring compliance with preservation guidelines. For commercial properties, we schedule work during low-traffic periods.",
+        "process": [
+          "Step 1: Inspection of existing walkway and subbase",
+          "Step 2: Removal with minimal vibration to nearby structures",
+          "Step 3: Form setting with precise elevation control",
+          "Step 4: Pouring and finishing to municipal specifications"
+        ],
+        "benefits": [
+          "Eliminate trip hazards and liability concerns",
+          "Proper slope prevents ice buildup in winter",
+          "Salt-resistant finishes maintain appearance",
+          "Fast completion with neighborhood consideration"
+        ],
+        "faq": [
+          {
+            "question": "Who handles city permits?",
+            "answer": "We manage all Denver permitting including historic district approvals when needed."
+          },
+          {
+            "question": "Can tree roots damage new sidewalks?",
+            "answer": "We install root barriers where needed and use reinforcement to prevent future damage."
+          },
+          {
+            "question": "How long until I can walk on it?",
+            "answer": "48 hours for foot traffic, full cure in 7 days. We'll mark protected areas clearly."
+          }
+        ]
+      },
+      {
+        "slug": "concrete-floors",
+        "name": "Concrete Floors",
+        "shortDescription": "Industrial-grade finishes for Denver homes and businesses.",
+        "description": "From RiNo loft conversions to Arvada basement remodels, polished concrete floors offer durability perfect for Colorado living. Our process transforms slabs into showpiece surfaces.\n\nWe grind existing concrete to expose aggregate, then apply penetrating sealers that resist stains and moisture - critical in Denver's dry climate. For new construction, we pour slabs with integrated color and proper vapor barriers.\n\nCommercial clients appreciate our non-slip finishes that handle heavy foot traffic. Residential customers love the radiant heat compatibility and easy maintenance compared to other flooring options.",
+        "process": [
+          "Step 1: Slab evaluation for cracks and moisture content",
+          "Step 2: Mechanical grinding to desired aggregate exposure",
+          "Step 3: Application of densifiers and sealers",
+          "Step 4: Final polishing for specified sheen level"
+        ],
+        "benefits": [
+          "No grout lines or seams to collect dirt",
+          "Naturally cool in summer, perfect for radiant heat",
+          "Withstands heavy furniture and pet traffic",
+          "Modern aesthetic that complements any decor"
+        ],
+        "faq": [
+          {
+            "question": "Can you polish my existing basement floor?",
+            "answer": "Most slabs can be transformed unless severely damaged. We'll assess structural integrity first."
+          },
+          {
+            "question": "How slippery are polished floors?",
+            "answer": "Our commercial-grade finishes include anti-slip additives without sacrificing appearance."
+          },
+          {
+            "question": "Do polished floors work with radiant heat?",
+            "answer": "Absolutely - concrete's thermal mass makes it ideal for radiant systems common in Denver homes."
+          }
+        ]
+      },
+      {
+        "slug": "retaining-walls",
+        "name": "Retaining Walls",
+        "shortDescription": "Structural solutions for Denver's sloped properties.",
+        "description": "Colorado's varied terrain demands retaining walls that do more than look good - they must hold back tons of earth through seasonal shifts. Our poured concrete walls outperform block systems in durability.\n\nWe engineer walls specifically for Denver's soil conditions, incorporating proper drainage and reinforcement. From tiered garden walls in Wash Park to erosion control in Littleton hillsides, each project begins with thorough load analysis.\n\nFinishes range from natural stone veneers to smooth modern surfaces. We coordinate with landscapers when desired, ensuring seamless integration with your outdoor space.",
+        "process": [
+          "Step 1: Site survey and soil testing",
+          "Step 2: Engineering analysis for load requirements",
+          "Step 3: Form building with rebar placement",
+          "Step 4: Pouring and finishing with selected texture"
+        ],
+        "benefits": [
+          "No shifting or bulging like block walls",
+          "Engineered for Denver's freeze-thaw cycles",
+          "Custom heights and curves to fit your space",
+          "Increased usable yard area"
+        ],
+        "faq": [
+          {
+            "question": "How tall can concrete retaining walls be?",
+            "answer": "We engineer walls up to 6 feet tall without additional permits. Taller walls require structural plans we can provide."
+          },
+          {
+            "question": "Do walls need maintenance?",
+            "answer": "Properly built concrete walls require virtually no upkeep - we design them to last decades."
+          },
+          {
+            "question": "Can you match my existing hardscape?",
+            "answer": "We'll sample nearby concrete to blend new walls seamlessly with your property."
+          }
+        ]
+      },
+      {
+        "slug": "garage-floors",
+        "name": "Garage Floors",
+        "shortDescription": "Heavy-duty surfaces for Denver's garages and workshops.",
+        "description": "Colorado vehicles bring in salt, oil, and chemicals that destroy standard garage floors. Our epoxy and polyurethane coatings create impervious surfaces that shrug off these challenges.\n\nWe start by diamond grinding existing concrete to ensure perfect adhesion. Then apply industrial-grade coatings resistant to hot tires, chemical spills, and impact. Optional flake finishes provide traction during snowy months.\n\nFor new construction, we pour slabs with integrated vapor barriers and steel fibers to prevent cracking. Many Highlands Ranch homeowners choose our radiant heat compatible finishes for year-round workshop comfort.",
+        "process": [
+          "Step 1: Surface preparation including crack repair",
+          "Step 2: Mechanical profiling for coating adhesion",
+          "Step 3: Primer and base coat application",
+          "Step 4: Topcoat with selected finish and additives"
+        ],
+        "benefits": [
+          "No more dusting or spalling concrete",
+          "Chemical-resistant surfaces easy to clean",
+          "Custom colors and decorative options",
+          "Increased home value with finished garage space"
+        ],
+        "faq": [
+          {
+            "question": "How long does the coating last?",
+            "answer": "Our commercial-grade systems typically last 10+ years with proper maintenance - far longer than DIY kits."
+          },
+          {
+            "question": "Can you coat cracked floors?",
+            "answer": "We first repair cracks with flexible epoxy systems designed for movement in Denver's climate."
+          },
+          {
+            "question": "How soon can I park on it?",
+            "answer": "72 hours for light vehicles, full cure in 7 days. We provide exact timelines based on temperature."
+          }
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Mark T.",
+        "rating": 5,
+        "service": "Driveway Installation",
+        "text": "Legacy replaced our cracked 1980s driveway in Park Hill with a reinforced concrete slab that's survived two Denver winters without a single crack. The crew worked around our mature trees carefully and cleaned up perfectly.",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "Sarah K.",
+        "rating": 5,
+        "service": "Foundation Repair",
+        "text": "After our Arvada ranch home started showing foundation cracks, Legacy diagnosed the issue as improper original drainage. Their helical pier solution stabilized the house and the new grading has kept everything dry since.",
+        "date": "2025-01-22"
+      },
+      {
+        "name": "James and Lori W.",
+        "rating": 5,
+        "service": "Patio Installation",
+        "text": "Our new stamped concrete patio in Wash Park looks like flagstone but handles Denver hail without chipping. The crew incorporated subtle drainage slopes we never would have thought about - no puddles after heavy rains.",
+        "date": "2024-11-03"
+      },
+      {
+        "name": "Denver Ortho Clinic",
+        "rating": 5,
+        "service": "Concrete Floors",
+        "text": "Legacy transformed our RiNo medical office's worn floors into polished masterpieces. The non-slip finish meets ADA requirements while looking modern and professional. Zero downtime during the process.",
+        "date": "2024-09-18"
+      },
+      {
+        "name": "Roberta S.",
+        "rating": 5,
+        "service": "Sidewalk Replacement",
+        "text": "Fast, compliant sidewalk replacement in Capitol Hill historic district. Legacy handled all the city permits and matched the original 1920s finish perfectly. Neighbors have asked for their contact info.",
+        "date": "2024-08-29"
+      },
+      {
+        "name": "Mike D.",
+        "rating": 5,
+        "service": "Retaining Walls",
+        "text": "The 4-foot concrete retaining wall in our Littleton backyard stopped our erosion problems completely. It's been through two springs now with zero movement or cracking - just solid performance.",
+        "date": "2024-06-12"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Denver Concrete Contractors | Legacy Concrete",
+        "description": "Trusted Denver concrete contractors since 2012. Weather-resistant installations and repairs for driveways, patios, foundations and more."
+      },
+      "about": {
+        "title": "About Legacy Concrete | Denver Builders",
+        "description": "Denver's local concrete experts serving residential and commercial clients since 2012. Learn our story and commitment to quality."
+      },
+      "services": {
+        "title": "Denver Concrete Services | Legacy Concrete",
+        "description": "Comprehensive concrete solutions for Denver homes and businesses. Driveways, foundations, patios, floors and more - built to last."
+      },
+      "contact": {
+        "title": "Contact Denver's Concrete Pros | Legacy Concrete",
+        "description": "Get a free estimate from Denver's trusted concrete contractors. Serving Aurora, Lakewood, Arvada, Littleton and Highlands Ranch."
+      },
+      "reviews": {
+        "title": "Denver Concrete Company Reviews | Legacy Concrete",
+        "description": "See what Denver homeowners and businesses say about our concrete work. Real projects, real feedback from satisfied clients."
+      },
+      "service-areas": {
+        "title": "Denver Metro Concrete Services | Legacy Concrete",
+        "description": "Proudly serving Denver, Aurora, Lakewood, Arvada, Littleton and Highlands Ranch with durable concrete solutions."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    },
+    "serviceAreas": [
+      {
+        "city": "Aurora",
+        "slug": "aurora-co",
+        "state": "CO",
+        "content": "Legacy Concrete proudly serves Aurora, Colorado, a bustling city with a population of approximately 395,000 residents. Known for its 1970s-80s suburban developments, Aurora's homes often require durable concrete solutions to withstand the region's cold winters and heavy snowfall. Our team specializes in repairing and reinforcing driveways, patios, and foundations to ensure longevity in Aurora's challenging climate. Whether you need a new concrete slab or repairs to existing structures, Legacy Concrete delivers top-quality work tailored to Aurora's unique needs.",
+        "localContext": "Aurora features sprawling suburban neighborhoods built primarily in the 1970s and 1980s, with a climate that demands weather-resistant concrete solutions.",
+        "nearbyAreas": [
+          "Denver",
+          "Centennial",
+          "Parker"
+        ]
+      },
+      {
+        "city": "Lakewood",
+        "slug": "lakewood-co",
+        "state": "CO",
+        "content": "Lakewood, Colorado, is home to over 157,000 residents and is characterized by its charming 1960s-70s split-level homes. Legacy Concrete provides expert services to address the wear and tear these older properties face, especially in Lakewood's cold winters with heavy snow. From cracked sidewalks to aging foundations, our team ensures your concrete structures remain sturdy and safe. We also offer decorative concrete options to enhance Lakewood's mid-century aesthetic while maintaining durability.",
+        "localContext": "Lakewood's architectural landscape is dominated by split-level homes from the 1960s and 1970s, requiring specialized concrete maintenance.",
+        "nearbyAreas": [
+          "Golden",
+          "Wheat Ridge",
+          "Denver"
+        ]
+      },
+      {
+        "city": "Arvada",
+        "slug": "arvada-co",
+        "state": "CO",
+        "content": "Arvada, Colorado, with its population of around 124,000, is known for its classic 1960s-70s ranch-style homes. Legacy Concrete understands the unique challenges these properties face, particularly in Arvada's cold, snowy winters. Our services include foundation repairs, driveway replacements, and custom concrete work to preserve the integrity of Arvada's homes. Trust us to deliver durable, weather-resistant solutions that blend seamlessly with the city's timeless architectural style.",
+        "localContext": "Arvada's ranch-style homes from the 1960s and 1970s require concrete solutions that balance functionality with the area's rustic charm.",
+        "nearbyAreas": [
+          "Westminster",
+          "Broomfield",
+          "Wheat Ridge"
+        ]
+      },
+      {
+        "city": "Littleton",
+        "slug": "littleton-co",
+        "state": "CO",
+        "content": "Littleton, Colorado, is a picturesque city of about 48,000 residents, famous for its historic downtown bungalows. Legacy Concrete specializes in preserving and enhancing these charming properties with high-quality concrete work. Littleton's cold winters and heavy snowfall demand durable solutions for driveways, walkways, and foundations. Whether you're restoring a historic home or adding modern concrete features, our team ensures your project meets Littleton's high standards.",
+        "localContext": "Littleton's historic bungalows and downtown area require concrete solutions that respect the city's heritage while ensuring durability.",
+        "nearbyAreas": [
+          "Englewood",
+          "Highlands Ranch",
+          "Centennial"
+        ]
+      },
+      {
+        "city": "Highlands Ranch",
+        "slug": "highlands-ranch-co",
+        "state": "CO",
+        "content": "Highlands Ranch, Colorado, is a master-planned community with a population of approximately 105,000. Known for its 1990s-2000s homes, this area benefits from Legacy Concrete's expertise in modern concrete applications. From sleek stamped patios to sturdy driveways, we cater to Highlands Ranch's contemporary aesthetic while addressing the challenges of cold winters and heavy snow. Our team ensures your concrete projects enhance both functionality and curb appeal.",
+        "localContext": "Highlands Ranch's planned community features newer homes that benefit from modern concrete techniques and designs.",
+        "nearbyAreas": [
+          "Littleton",
+          "Lone Tree",
+          "Parker"
+        ]
+      },
+      {
+        "city": "Denver",
+        "slug": "denver-co",
+        "state": "CO",
+        "content": "Denver, Colorado's vibrant capital, is a hub of diverse architecture and rapid growth. Legacy Concrete serves homeowners and businesses across Denver, providing solutions for everything from historic properties to new developments. The city's cold winters and heavy snowfall require durable concrete work, and our team excels in delivering weather-resistant driveways, sidewalks, and foundations. Whether you're in a historic neighborhood or a modern high-rise, Legacy Concrete has you covered.",
+        "localContext": "Denver's mix of historic and modern architecture demands versatile concrete solutions for its harsh winter climate.",
+        "nearbyAreas": [
+          "Aurora",
+          "Lakewood",
+          "Englewood"
+        ]
+      },
+      {
+        "city": "Centennial",
+        "slug": "centennial-co",
+        "state": "CO",
+        "content": "Centennial, Colorado, is a thriving suburb with a mix of older and newer homes. Legacy Concrete provides expert services to address the needs of Centennial's diverse properties, particularly in the face of cold winters and heavy snow. From repairing aging concrete to installing stylish new features, our team ensures your home or business stands the test of time. Trust Legacy Concrete for reliable, high-quality work in Centennial.",
+        "localContext": "Centennial's blend of older and newer homes requires adaptable concrete solutions for its snowy winters.",
+        "nearbyAreas": [
+          "Littleton",
+          "Parker",
+          "Aurora"
+        ]
+      },
+      {
+        "city": "Parker",
+        "slug": "parker-co",
+        "state": "CO",
+        "content": "Parker, Colorado, is a growing town with a mix of rural charm and suburban development. Legacy Concrete serves Parker residents with durable concrete solutions designed to withstand the area's cold winters and heavy snowfall. Whether you're building a new home or maintaining an existing property, our team delivers top-notch driveways, patios, and foundations. Parker's unique character deserves concrete work that's both functional and aesthetically pleasing.",
+        "localContext": "Parker's blend of rural and suburban properties requires concrete solutions that cater to its diverse landscape.",
+        "nearbyAreas": [
+          "Centennial",
+          "Highlands Ranch",
+          "Castle Rock"
+        ]
+      },
+      {
+        "city": "Golden",
+        "slug": "golden-co",
+        "state": "CO",
+        "content": "Golden, Colorado, is a historic town nestled in the foothills of the Rockies. Legacy Concrete provides specialized services to preserve and enhance Golden's unique properties, which face harsh winters with heavy snow. From repairing historic foundations to installing new decorative concrete, our team respects Golden's heritage while ensuring durability. Trust us for concrete work that complements the town's rugged beauty.",
+        "localContext": "Golden's historic and mountainous setting demands concrete solutions that withstand extreme weather.",
+        "nearbyAreas": [
+          "Lakewood",
+          "Arvada",
+          "Wheat Ridge"
+        ]
+      },
+      {
+        "city": "Broomfield",
+        "slug": "broomfield-co",
+        "state": "CO",
+        "content": "Broomfield, Colorado, is a dynamic city with a mix of residential and commercial developments. Legacy Concrete serves Broomfield with high-quality concrete solutions tailored to the area's cold winters and heavy snowfall. Whether you're a homeowner or business owner, our team delivers durable driveways, sidewalks, and foundations. Broomfield's growth demands reliable concrete work, and Legacy Concrete is here to meet that need.",
+        "localContext": "Broomfield's expanding infrastructure requires concrete solutions that support its rapid development.",
+        "nearbyAreas": [
+          "Westminster",
+          "Arvada",
+          "Louisville"
+        ]
+      },
+      {
+        "city": "Westminster",
+        "slug": "westminster-co",
+        "state": "CO",
+        "content": "Westminster, Colorado, is a bustling suburb with a diverse range of properties. Legacy Concrete provides expert services to address the challenges posed by Westminster's cold winters and heavy snowfall. From repairing cracked concrete to installing new features, our team ensures your property remains safe and attractive. Westminster's homeowners and businesses trust Legacy Concrete for dependable, long-lasting results.",
+        "localContext": "Westminster's mix of residential and commercial properties requires versatile concrete solutions.",
+        "nearbyAreas": [
+          "Broomfield",
+          "Arvada",
+          "Thornton"
+        ]
+      },
+      {
+        "city": "Englewood",
+        "slug": "englewood-co",
+        "state": "CO",
+        "content": "Englewood, Colorado, is a charming city with a mix of historic and modern homes. Legacy Concrete specializes in concrete work that meets Englewood's unique needs, particularly in its cold, snowy winters. Whether you're restoring a historic property or building new, our team delivers durable, weather-resistant solutions. Englewood's homeowners rely on Legacy Concrete for quality work that enhances their properties.",
+        "localContext": "Englewood's blend of historic and contemporary architecture demands tailored concrete solutions.",
+        "nearbyAreas": [
+          "Littleton",
+          "Denver",
+          "Sheridan"
+        ]
+      }
+    ]
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "driveway-installation": "/images/service-driveway-installation.webp",
+      "foundation-repair": "/images/service-foundation-repair.webp",
+      "patio-installation": "/images/service-patio-installation.webp",
+      "sidewalk-replacement": "/images/service-sidewalk-replacement.webp",
+      "concrete-floors": "/images/service-concrete-floors.webp",
+      "retaining-walls": "/images/service-retaining-walls.webp",
+      "garage-floors": "/images/service-garage-floors.webp"
+    },
+    "servicesResponsive": {
+      "driveway-installation": {
+        "src": "/images/service-driveway-installation.webp",
+        "srcset": "/images/service-driveway-installation-400w.webp 400w, /images/service-driveway-installation-800w.webp 800w, /images/service-driveway-installation-1200w.webp 1200w, /images/service-driveway-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "foundation-repair": {
+        "src": "/images/service-foundation-repair.webp",
+        "srcset": "/images/service-foundation-repair-400w.webp 400w, /images/service-foundation-repair-800w.webp 800w, /images/service-foundation-repair-1200w.webp 1200w, /images/service-foundation-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "patio-installation": {
+        "src": "/images/service-patio-installation.webp",
+        "srcset": "/images/service-patio-installation-400w.webp 400w, /images/service-patio-installation-800w.webp 800w, /images/service-patio-installation-1200w.webp 1200w, /images/service-patio-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "sidewalk-replacement": {
+        "src": "/images/service-sidewalk-replacement.webp",
+        "srcset": "/images/service-sidewalk-replacement-400w.webp 400w, /images/service-sidewalk-replacement-800w.webp 800w, /images/service-sidewalk-replacement-1200w.webp 1200w, /images/service-sidewalk-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "concrete-floors": {
+        "src": "/images/service-concrete-floors.webp",
+        "srcset": "/images/service-concrete-floors-400w.webp 400w, /images/service-concrete-floors-800w.webp 800w, /images/service-concrete-floors-1200w.webp 1200w, /images/service-concrete-floors.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "retaining-walls": {
+        "src": "/images/service-retaining-walls.webp",
+        "srcset": "/images/service-retaining-walls-400w.webp 400w, /images/service-retaining-walls-800w.webp 800w, /images/service-retaining-walls-1200w.webp 1200w, /images/service-retaining-walls.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "garage-floors": {
+        "src": "/images/service-garage-floors.webp",
+        "srcset": "/images/service-garage-floors-400w.webp 400w, /images/service-garage-floors-800w.webp 800w, /images/service-garage-floors-1200w.webp 1200w, /images/service-garage-floors.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
